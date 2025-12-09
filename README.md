@@ -73,18 +73,13 @@ Passionate about building scalable, secure, and automated DevOps solutions.
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
+
 
 ---
 
 ## 📫 Connect With Me  
-- **LinkedIn:** *add your link here*  
-- **Email:** *add your email*  
+- **LinkedIn:** *www.linkedin.com/in/mohammad-kumail-haidri-aab985220*  
+- **Email:** *kumailhaidri110@gmail.com*  
 
 ---
 
