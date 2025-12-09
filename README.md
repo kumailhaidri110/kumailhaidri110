@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Kumail Haidri</h1>
-<h3 align="center">DevOps Engineer | AWS & Azure | CI/CD | Kubernetes | Automation</h3>
+<h3 align="center">DevOps Engineer | AWS Azure GCP | CI/CD | Kubernetes | Automation</h3>
 
 ---
 
